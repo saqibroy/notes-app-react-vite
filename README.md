@@ -1,4 +1,4 @@
-# React Notepad++ [Optimized]
+# Notes app Modern [Optimized]
 
 Advanced notes application with premium user experience, built with modern React practices and Mantine design system.
 
